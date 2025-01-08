@@ -1,4 +1,4 @@
 # bransgorillashirts
 Collection of my Public gorilla shirts.
 
-bransgorillashirts/galaxy.md 
+# [Galaxy Shirts](https://github.com/wspbran/bransgorillashirts/blob/main/galaxy.md)
