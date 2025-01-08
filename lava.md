@@ -1,3 +1,3 @@
 lava
 
-lavafiles/photos/OverCoat.png
+[overcoat](lavafiles/photos/OverCoat.png)
