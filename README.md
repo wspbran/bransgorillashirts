@@ -5,4 +5,4 @@ Collection of my Public gorilla shirts.
 
 # [Water Shirts](https://github.com/wspbran/bransgorillashirts/blob/main/water.md)
 
-# [Galaxy Shirts](https://github.com/wspbran/bransgorillashirts/blob/main/galaxy.md)
+# [Galaxy Shirts](galaxy.md)
