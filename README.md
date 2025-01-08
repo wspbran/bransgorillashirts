@@ -1,8 +1,8 @@
 # bransgorillashirts
 Collection of my Public gorilla shirts.
 
-# [Lava Shirts](https://github.com/wspbran/bransgorillashirts/blob/main/lava.md)
+# [Lava Shirts](lava.md)
 
-# [Water Shirts](https://github.com/wspbran/bransgorillashirts/blob/main/water.md)
+# [Water Shirts](water.md)
 
 # [Galaxy Shirts](galaxy.md)
