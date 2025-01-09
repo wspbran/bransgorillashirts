@@ -1,9 +1,9 @@
 # bransgorillashirts
 Collection of my Public gorilla shirts.
 
-# [Lava Shirts](lava.md)
+# [LavaDefaults](lavadefaults.md)
  <img src="https://github.com/wspbran/bransgorillashirts/blob/main/lavafiles/photos/longsleeve.png" style="display: block; margin-left: auto; margin-right: auto; width=50%;">
 
-# [Water Shirts](water.md)
+# [WaterDefaults](waterdefaults.md)
 
-# [Galaxy Shirts](galaxy.md)
+# [GalaxPacks](galaxpacks.md)
