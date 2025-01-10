@@ -4,7 +4,7 @@ All of these next cosmetics are made by me/dev, models by [@devloper9998](https:
 
 <b> Reminder Here!!! Please Please Plesse dont Forget to add these ".shirt" files to a folder in your plugins labeled the same as the MD name "LavaDefaults". Unless you get such zip below.
 
-<b> Reminder here!!! If you want to download all of these, school down to the bottom it download a zip with all of them. To add them to your selection in game , unzip the file then open the extracted folder, you should now see a "LavaDefaults" folder, put that in your plugins and you are done.
+<b> Reminder here!!! If you want to download all of these, scroll down to the bottom it download a zip with all of them. To add them to your selection in game , unzip the file then open the extracted folder, you should now see a "LavaDefaults" folder, put that in your plugins and you are done.
 
 ## Longsleeve
 
